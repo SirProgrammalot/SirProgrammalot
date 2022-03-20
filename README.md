@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SirProgrammalot
+- 👋 Hi, I’m @SirProgrammalot.
 - 👀 I’m interested in many things, but mainly technical stuff. 
-- 🌱 I’m currently learning Python, Networking and much more.
+- 🌱 I’m currently learning Python, Networking, Github and much more.
 
 
 <!---
